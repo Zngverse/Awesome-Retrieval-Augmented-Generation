@@ -2,7 +2,7 @@
 
 Updating curated list of retrieval augmented generation resources:
 
-Mar 9, 2025
+## Mar 9, 2025
 
 - **🚀 Graph RAG Revolution** – *[In-depth Analysis of Graph-based RAG in a Unified Framework](https://arxiv.org/abs/2503.04338)*  
   - Introduces novel **graph-based retrieval-augmented generation (RAG)** methods that significantly outperform existing approaches.  
