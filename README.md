@@ -1,8 +1,8 @@
 # Awesome-Retrieval-Augmented-Generation
 
-Updating curated list of retrieval augmented generation resources:
+Updating curated list of retrieval augmented generation resources
 
-## Mar 9, 2025
+## [Mar 9, 2025](https://trendoo.ai/s/beaWCHM3VAxQ)
 
 - **🚀 Graph RAG Revolution** – *[In-depth Analysis of Graph-based RAG in a Unified Framework](https://arxiv.org/abs/2503.04338)*  
   - Introduces novel **graph-based retrieval-augmented generation (RAG)** methods that significantly outperform existing approaches.  
@@ -19,7 +19,7 @@ Updating curated list of retrieval augmented generation resources:
   - Improves **interpretability** and **accuracy** in AI-driven depression detection.  
   - 🔑 **Takeaway:** Personalized RAG improves **trustworthiness and explainability** in sensitive AI applications. 
 
-## Mar 7, 2025
+## [Mar 7, 2025](https://trendoo.ai/s/46HkSWgjCHu8)
 
 - **🚀 SAGE: Smarter RAG for QA** – *[Read more](https://arxiv.org/abs/2503.01713)*  
   - A new framework that **boosts answer quality by 61.25%** and **reduces costs by 49.41%** by optimizing token consumption.  
